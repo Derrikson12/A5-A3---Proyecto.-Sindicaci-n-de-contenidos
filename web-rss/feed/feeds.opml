@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+    <title>Suscripciones Destinos Navideños</title>
+    <dateCreated>Mon, 11 Dec 2023 00:00:00 GMT</dateCreated>
+</head>
+<body>
+    <outline text="Destinos Navideños" title="Destinos Navideños">
+        <outline type="rss" text="Blog de Destinos Navideños" title="Blog" 
+                 xmlUrl="https://tu-usuario.github.io/destinos-navidennos/feed/rss.xml" 
+                 htmlUrl="https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/"/>
+        <outline type="rss" text="Podcast de Destinos Navideños" title="Podcast" 
+                 xmlUrl="https://tu-usuario.github.io/destinos-navidennos/feed/podcast.xml" 
+                 htmlUrl="https://tu-usuario.github.io/destinos-navidennos/podcast/"/>
+    </outline>
+</body>
+</opml>
