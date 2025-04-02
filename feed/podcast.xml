@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
     <title>Podcast de Destinos Navideños</title>
-    <link>https://tu-usuario.github.io/destinos-navidennos/podcast/</link>
+    <link>https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/podcast/index.html</link>
     <description>Consejos y experiencias sobre los mejores destinos navideños alrededor del mundo</description>
     <language>es</language>
     <lastBuildDate>Fri, 01 Dec 2023 00:00:00 GMT</lastBuildDate>
     
     <item>
         <title>Los 4 destinos navideños que no te puedes perder</title>
-        <link>https://tu-usuario.github.io/destinos-navidennos/podcast/</link>
+        <link>https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/podcast/index.html</link>
         <description>En este primer episodio analizamos en profundidad los 4 destinos navideños más mágicos del mundo y por qué deberían estar en tu lista.</description>
         <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" length="10240000" type="audio/mpeg"/>
         <guid isPermaLink="false">episodio1</guid>
@@ -19,7 +19,7 @@
     
     <item>
         <title>Presupuesto para viajar en Navidad</title>
-        <link>https://tu-usuario.github.io/destinos-navidennos/podcast/</link>
+        <link>https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/podcast/index.html</link>
         <description>Cómo planificar tus finanzas para disfrutar de las vacaciones navideñas sin preocupaciones económicas.</description>
         <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" length="9800000" type="audio/mpeg"/>
         <guid isPermaLink="false">episodio2</guid>

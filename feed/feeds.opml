@@ -7,11 +7,11 @@
 <body>
     <outline text="Destinos Navideños" title="Destinos Navideños">
         <outline type="rss" text="Blog de Destinos Navideños" title="Blog" 
-                 xmlUrl="https://tu-usuario.github.io/destinos-navidennos/feed/rss.xml" 
-                 htmlUrl="https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/"/>
+                 xmlUrl="https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/feed/rss.xml" 
+                 htmlUrl="https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/index.html"/>
         <outline type="rss" text="Podcast de Destinos Navideños" title="Podcast" 
-                 xmlUrl="https://tu-usuario.github.io/destinos-navidennos/feed/podcast.xml" 
-                 htmlUrl="https://tu-usuario.github.io/destinos-navidennos/podcast/"/>
+                 xmlUrl="https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/feed/podcast.xml" 
+                 htmlUrl="https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/podcast/index.html"/>
     </outline>
 </body>
 </opml>

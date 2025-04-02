@@ -2,33 +2,33 @@
 <rss version="2.0">
 <channel>
     <title>Blog de Destinos Navideños</title>
-    <link>https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/</link>
+    <link>https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/index.html</link>
     <description>Artículos y guías sobre los mejores lugares para visitar en Navidad</description>
     <language>es</language>
     <lastBuildDate>Sun, 10 Dec 2023 00:00:00 GMT</lastBuildDate>
     
     <item>
         <title>Guía completa para visitar los mercados de Navidad en Europa</title>
-        <link>https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/posts/post3.html</link>
+        <link>https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/posts/post3.html</link>
         <description>Descubre los mercados navideños más auténticos de Europa, desde los clásicos alemanes hasta las joyas escondidas de Europa del Este.</description>
         <pubDate>Sun, 10 Dec 2023 00:00:00 GMT</pubDate>
-        <guid isPermaLink="true">https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/posts/post3.html</guid>
+        <guid isPermaLink="true">https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/posts/post3.html</guid>
     </item>
     
     <item>
         <title>Consejos para viajar en Navidad con niños</title>
-        <link>https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/posts/post2.html</link>
+        <link>https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/posts/post2.html</link>
         <description>Planifica el viaje navideño perfecto para toda la familia con estos consejos prácticos y recomendaciones de destinos kid-friendly.</description>
         <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-        <guid isPermaLink="true">https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/posts/post2.html</guid>
+        <guid isPermaLink="true">https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/posts/post2.html</guid>
     </item>
     
     <item>
         <title>Los hoteles más decorados para Navidad</title>
-        <link>https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/posts/post1.html</link>
+        <link>https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/posts/post1.html</link>
         <description>Una selección de los hoteles que van más allá con sus decoraciones navideñas, creando experiencias mágicas para sus huéspedes.</description>
         <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-        <guid isPermaLink="true">https://tu-usuario.github.io/destinos-navidennos/web-rss/blog/posts/post1.html</guid>
+        <guid isPermaLink="true">https://derrikson12.github.io/A5-A3---Proyecto.-Sindicaci-n-de-contenidos/blog/posts/post1.html</guid>
     </item>
 </channel>
 </rss>
